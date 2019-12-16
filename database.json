@@ -1,0 +1,7 @@
+{
+    "host":"localhost",
+    "user":"showDB",
+    "password":"show",
+    "port": "3306",
+    "database": "show_db"
+}
